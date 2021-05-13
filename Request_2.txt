@@ -1,0 +1,49 @@
+Request #2: Yellow zone
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX net: <http://purl.org/toco/>
+Prefix tnmo: <http://127.0.0.1/tnmo#>
+SELECT * 
+WHERE
+{
+  ?Predictions tnmo:hasPrediction ?UserDevices .
+  ?Predictions tnmo:prediction_timestamp ?Timestamp .
+  ?Predictions tnmo:has_wired_traffic_value ?Traffic .
+  ?Predictions tnmo:MobileDeviceConnected ?Devices .
+  ?Predictions tnmo:hasContext ?Context .
+      FILTER(STRSTARTS(?Context, "S2")) 
+}
+LIMIT 5
+
+Response:
+
+Devices_2	Devices_3	Prediction_node	Service	Prediction_ID	Value
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_1/>	t1334	VOD	<http://127.0.0.1/Prediction_100/>	ON
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_1/>	t1604	WatchTV	<http://127.0.0.1/Prediction_101/>	ON
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_1/>	t1621	nPVR	<http://127.0.0.1/Prediction_102/>	OFF
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_1/>	t1455	PPV	<http://127.0.0.1/Prediction_103/>	OFF
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_2/>	t1605	VOD	<http://127.0.0.1/Prediction_196/>	ON
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_2/>	t953	WatchTV	<http://127.0.0.1/Prediction_197/>	OFF
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_2/>	t1078	nPVR	<http://127.0.0.1/Prediction_198/>	ON
+<http://127.0.0.1/NW_Device_4/>	<http://127.0.0.1/STB_2/>	t1298	PPV	<http://127.0.0.1/Prediction_199/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_3/>	t1317	VOD	<http://127.0.0.1/Prediction_292/>	ON
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_3/>	t1649	WatchTV	<http://127.0.0.1/Prediction_293/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_3/>	t1463	nPVR	<http://127.0.0.1/Prediction_294/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_3/>	t1015	PPV	<http://127.0.0.1/Prediction_295/>	OFF
+<http://127.0.0.1/NW_Device_7/>	<http://127.0.0.1/STB_7/>	t1012	VOD	<http://127.0.0.1/Prediction_676/>	OFF
+<http://127.0.0.1/NW_Device_7/>	<http://127.0.0.1/STB_7/>	t1240	WatchTV	<http://127.0.0.1/Prediction_677/>	OFF
+<http://127.0.0.1/NW_Device_7/>	<http://127.0.0.1/STB_7/>	t1282	nPVR	<http://127.0.0.1/Prediction_678/>	ON
+<http://127.0.0.1/NW_Device_7/>	<http://127.0.0.1/STB_7/>	t989	PPV	<http://127.0.0.1/Prediction_679/>	ON
+<http://127.0.0.1/NW_Device_6/>	<http://127.0.0.1/STB_6/>	t1474	VOD	<http://127.0.0.1/Prediction_580/>	OFF
+<http://127.0.0.1/NW_Device_6/>	<http://127.0.0.1/STB_6/>	t1618	WatchTV	<http://127.0.0.1/Prediction_581/>	ON
+<http://127.0.0.1/NW_Device_6/>	<http://127.0.0.1/STB_6/>	t974	nPVR	<http://127.0.0.1/Prediction_582/>	OFF
+<http://127.0.0.1/NW_Device_6/>	<http://127.0.0.1/STB_6/>	t1053	PPV	<http://127.0.0.1/Prediction_583/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_5/>	t1326	VOD	<http://127.0.0.1/Prediction_484/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_5/>	t1630	WatchTV	<http://127.0.0.1/Prediction_485/>	ON
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_5/>	t1388	nPVR	<http://127.0.0.1/Prediction_486/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_5/>	t1327	PPV	<http://127.0.0.1/Prediction_487/>	ON
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_4/>	t1316	VOD	<http://127.0.0.1/Prediction_388/>	ON
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_4/>	t1567	WatchTV	<http://127.0.0.1/Prediction_389/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_4/>	t1080	nPVR	<http://127.0.0.1/Prediction_390/>	OFF
+<http://127.0.0.1/NW_Device_5/>	<http://127.0.0.1/STB_4/>	t1429	PPV	<http://127.0.0.1/Prediction_391/>	OFF

@@ -1,0 +1,27 @@
+Request #1: Normal functioning
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX net: <http://purl.org/toco/>
+Prefix tnmo: <http://127.0.0.1/tnmo#>
+SELECT * 
+WHERE
+{
+  ?Predictions tnmo:hasPrediction ?UserDevices .
+  ?Predictions tnmo:prediction_timestamp ?Timestamp .
+  ?Predictions tnmo:has_wired_traffic_value ?Traffic .
+  ?Predictions tnmo:MobileDeviceConnected ?Devices .
+  ?Predictions tnmo:hasContext ?Context .
+      FILTER(STRSTARTS(?Context, "S1")) 
+}
+LIMIT 5
+
+
+Response:
+
+Predictions	UserDevices	Timestamp	Traffic	Devices	Context
+<http://127.0.0.1/Prediction_1/>	<http://127.0.0.1/User_device_4/>	2021-04-29T01:00:00	710.9228508805083	329	S1 / []
+<http://127.0.0.1/Prediction_10/>	<http://127.0.0.1/User_device_4/>	2021-04-29T10:00:00	727.330546586905	491	S1 / []
+<http://127.0.0.1/Prediction_11/>	<http://127.0.0.1/User_device_4/>	2021-04-29T11:00:00	520.0583929398965	208	S1 / []
+<http://127.0.0.1/Prediction_12/>	<http://127.0.0.1/User_device_4/>	2021-04-29T12:00:00	487.23468755839457	288	S1 / []
+<http://127.0.0.1/Prediction_13/>	<http://127.0.0.1/User_device_4/>	2021-04-29T13:00:00	591.4266233124215	263	S1 / []

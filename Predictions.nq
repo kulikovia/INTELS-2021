@@ -1,0 +1,679 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF
+xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+xmlns:vCard='http://www.w3.org/2001/vcard-rdf/3.0#'
+xmlns:tnmo='http://127.0.0.1/tnmo#'
+>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_0/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T00:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>998.3449178080839</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>488</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_1/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T01:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>710.9228508805083</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>329</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_2/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T02:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>111.92306634890487</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>103</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_3/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T03:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>95.18217507170951</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>84</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_4/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T04:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>97.8622239446293</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>89</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_5/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T05:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>246.63646375303853</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>244</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_6/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T06:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>510.84524711394005</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>405</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_7/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T07:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>695.1455287148261</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>443</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_8/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T08:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>824.7147220158272</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>488</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_9/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T09:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>594</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_10/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T10:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>727.330546586905</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>491</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_11/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T11:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>520.0583929398965</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>208</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_12/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T12:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>487.23468755839457</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>288</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_13/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T13:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>591.4266233124215</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>263</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_14/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T14:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>583.629750407507</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>310</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_15/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T15:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>713.3844761969277</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>379</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_16/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T16:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>647.5893259366386</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>331</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_17/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T17:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>875.4237657396775</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>464</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_18/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T18:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>562</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_19/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T19:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>703</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_20/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T20:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1430.884533503639</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>0</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S4 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_21/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T21:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>739</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_22/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T22:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>593</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_23/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_4/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T23:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>555</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_24/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T00:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>481</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_25/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T01:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>701.289326118081</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>411</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_26/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T02:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>87.73990124693444</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>98</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_27/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T03:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>100.18540262100628</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>87</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_28/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T04:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>104.65478771530587</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>112</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_29/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T05:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>204.83427605980623</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>251</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_30/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T06:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>500.7145433808851</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>373</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_31/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T07:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>659.0901302834153</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>471</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_32/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T08:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>754.4654298819808</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>561</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_33/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T09:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>570</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_34/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T10:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>779.8732249813763</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>522</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_35/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T11:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>496.2906801743103</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>245</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_36/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T12:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>469.812715987738</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>282</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_37/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T13:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>614.7815863913279</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>322</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_38/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T14:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>567.1859189490942</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>316</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_39/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T15:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>737.4279154876691</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>379</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_40/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T16:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>683.0029344740564</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>328</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_41/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T17:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>883.8084076376389</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>433</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_42/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T18:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>606</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_43/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T19:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>688</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_44/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T20:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>760</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_45/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T21:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>0</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>814</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S4 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_46/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T22:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>627</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_47/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_5/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T23:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>575</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_48/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T00:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>484</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_49/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T01:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>709.6382602297883</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>369</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_50/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T02:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>92.92182508575203</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>82</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_51/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T03:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>106.34208604915203</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>89</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_52/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T04:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>89.18535691216616</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>100</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_53/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T05:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>214.5866822172241</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>249</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_54/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T06:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>496.6680726344201</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>406</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_55/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T07:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>669.0568482934881</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>453</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_56/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T08:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>840.9887063038542</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>426</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_57/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T09:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>573</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_58/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T10:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>834.1261554694468</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>508</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_59/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T11:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>514.982091189045</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>219</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_60/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T12:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>512.3059589102588</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>270</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_61/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T13:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>550.1842448930861</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>264</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_62/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T14:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>624.7097835069443</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>292</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_63/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T15:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>680.1768951965864</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>318</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_64/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T16:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>765.5011124297399</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>318</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_65/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T17:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>834.5380873467554</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>464</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_66/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T18:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>503</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_67/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T19:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>697</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_68/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T20:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>0</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>794</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S4 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_69/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T21:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>0</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>763</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S4 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_70/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T22:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>584</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_71/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_6/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T23:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>542</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_72/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T00:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>979.3720866161284</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>505</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_73/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T01:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>695.5226682008384</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>394</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_74/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T02:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>113.04833219563017</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>82</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_75/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T03:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>75.35912867706017</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>101</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_76/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T04:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>84.58926901241006</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>102</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_77/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T05:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>182.60530235826994</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>251</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_78/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T06:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>485.52395596060853</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>380</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_79/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T07:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>681.0968771355704</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>437</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_80/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T08:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>791.7712010619688</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>531</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_81/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T09:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>945.8978846268815</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>645</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_82/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T10:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>866.2132582460428</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>488</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_83/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T11:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>463.1924294166721</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>261</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_84/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T12:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>490.6321935975567</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>247</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_85/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T13:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>566.8420817573195</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>301</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_86/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T14:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>600.3916025238524</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>303</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_87/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T15:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>646.2616148025282</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>344</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_88/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T16:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>683.1077370413833</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>336</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S1 / []</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_89/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T17:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>966.9928716187388</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>453</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S2 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_90/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T18:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>489</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_91/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T19:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>707</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_92/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T20:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>778</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_93/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T21:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>0</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>817</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S4 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_94/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T22:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>556</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+<rdf:Description rdf:about = 'http://127.0.0.1/Prediction_95/'>
+<tnmo:hasPrediction><rdf:Description rdf:about = 'http://127.0.0.1/User_device_7/'></rdf:Description></tnmo:hasPrediction>
+<tnmo:prediction_timestamp rdf:datatype = 'http://www.w3.org/2001/XMLSchema#datetime'>2021-04-29T23:00:00</tnmo:prediction_timestamp>
+<tnmo:has_wired_traffic_value>1000</tnmo:has_wired_traffic_value>
+<tnmo:MobileDeviceConnected>555</tnmo:MobileDeviceConnected>
+<tnmo:hasContext>S3 / Collected monitoring data has been added</tnmo:hasContext>
+</rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,28 @@
+Request #3: Red zone
+
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX net: <http://purl.org/toco/>
+Prefix tnmo: <http://127.0.0.1/tnmo#>
+SELECT * 
+WHERE
+{
+  ?Predictions tnmo:hasPrediction ?UserDevices .
+  ?Predictions tnmo:prediction_timestamp ?Timestamp .
+  ?Predictions tnmo:has_wired_traffic_value ?Traffic .
+  ?Predictions tnmo:MobileDeviceConnected ?Devices .
+  ?Predictions tnmo:hasContext ?Context .
+      FILTER(STRSTARTS(?Context, "S3")) 
+}
+LIMIT 5
+
+
+Response:
+
+Predictions	UserDevices	Timestamp	Traffic	Devices	Context
+<http://127.0.0.1/Prediction_18/>	<http://127.0.0.1/User_device_4/>	2021-04-29T18:00:00	1000	562	S3 / Collected monitoring data has been added
+<http://127.0.0.1/Prediction_19/>	<http://127.0.0.1/User_device_4/>	2021-04-29T19:00:00	1000	703	S3 / Collected monitoring data has been added
+<http://127.0.0.1/Prediction_21/>	<http://127.0.0.1/User_device_4/>	2021-04-29T21:00:00	1000	739	S3 / Collected monitoring data has been added
+<http://127.0.0.1/Prediction_22/>	<http://127.0.0.1/User_device_4/>	2021-04-29T22:00:00	1000	593	S3 / Collected monitoring data has been added
+<http://127.0.0.1/Prediction_23/>	<http://127.0.0.1/User_device_4/>	2021-04-29T23:00:00	1000	555	S3 / Collected monitoring data has been added
+

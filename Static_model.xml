@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#"
+xmlns:geo="http://www.w3.org/2003/01/geo/"
+xmlns:net="http://purl.org/toco/"
+xmlns:tnmo="http://127.0.0.1/tnmo/"
+
+>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_1/'>
+<tnmo:has_id>NW1</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 1</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_2/'>
+<tnmo:has_id>NW2</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 2</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_3/'>
+<tnmo:has_id>NW3</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 3</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_4/'>
+<tnmo:has_id>NW4</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 4</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_5/'>
+<tnmo:has_id>NW5</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 5</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_6/'>
+<tnmo:has_id>NW6</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 6</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_7/'>
+<tnmo:has_id>NW7</tnmo:has_id>
+<rdf:type>net:Device</rdf:type>
+<rdfs:label>Network device. ID: 7</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_1/'>
+<tnmo:includes>
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_2/'>
+</rdf:Description>
+</tnmo:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_1/'>
+<tnmo:includes>
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_3/'>
+</rdf:Description>
+</tnmo:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_2/'>
+<tnmo:includes>
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_4/'>
+</rdf:Description>
+</tnmo:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_2/'>
+<tnmo:includes>
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_5/'>
+</rdf:Description>
+</tnmo:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_3/'>
+<tnmo:includes>
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_6/'>
+</rdf:Description>
+</tnmo:includes>
+</rdf:Description>
+
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_3/'>
+<tnmo:includes>
+<rdf:Description rdf:about='http://127.0.0.1/NW_Device_7/'>
+</rdf:Description>
+</tnmo:includes>
+</rdf:Description>
+
+</rdf:RDF>

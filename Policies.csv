@@ -1,0 +1,10 @@
+CONTEXT_ID,RULE_ID,ACTION
+S1,1,aggregation
+S2,1,aggregation
+S2,2,collection
+S3,1,aggregation
+S3,2,overload
+S3,3,collection
+S4,1,aggregation
+S4,2,failure
+S4,3,collection

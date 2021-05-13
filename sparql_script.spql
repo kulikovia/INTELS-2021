@@ -1,0 +1,5 @@
+
+LOAD <file:///C:/Blazegraph/1/Static_model.xml>;
+
+LOAD <file:///C:/Blazegraph/1/Predictions.nq>;
+
