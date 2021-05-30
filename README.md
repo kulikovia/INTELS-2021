@@ -10,3 +10,4 @@
 9. Request_4.txt - containes request #4 and response
 10. Static_model.xml - containes static part of TN model for loading to KG in RDF/XML format
 11. sparql_script.spql - SPARQL load script
+12. Complexity_research.zip - archive with Pyton scripts and other necessary files for complexity analysis. The complexity diagram in the article is based on data recieved from this scripts.
